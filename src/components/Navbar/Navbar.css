@@ -71,6 +71,8 @@
     background: var(--color-black);
     transition: 0.5s ease;
 
+    height: 500px;
+
     flex-direction: column;
     z-index: 5;
 }
